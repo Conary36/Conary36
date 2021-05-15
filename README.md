@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### Here are some things I am working on:
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Various side projects using Python/React.js
 - 🌱 I’m currently learning ... Data Structures & Algorithms
