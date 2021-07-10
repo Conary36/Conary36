@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ... Various side projects using Python/React.js
 - 🌱 I’m currently learning ... Data Structures & Algorithms
 - 👯 I’m looking to collaborate on ... Projects using Python and Machine Learning.
-- 🤔 I’m looking for help with ... Learning Tensorflow.js
+- 🤔 I’m looking for help with ... Learning Tensorflow
 - 💬 Ask me about ... React.js projects
 - 📫 How to reach me: ... conary.beckford@gmail.com | www.linkedin.com/in/conary-beckford
 - 😄 Pronouns: ... Him/He
