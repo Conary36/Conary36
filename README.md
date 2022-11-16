@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... Various side projects using Python/React.js
-- 🌱 I’m currently learning ... Data Structures & Algorithms
+- 🌱 I’m currently learning ... how microservices apps are built.
 - 👯 I’m looking to collaborate on ... Projects using Python and Machine Learning.
 - 🤔 I’m looking for help with ... Learning Tensorflow
 - 💬 Ask me about ... React.js projects
